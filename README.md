@@ -4,6 +4,7 @@
 
 ## Tech 👾
  - React
+ - React Router
  - JavaScript
  - ES6
  - HTML5
@@ -17,7 +18,6 @@
 
 ## Learning 📚
   - Redux
-  - React Router
   - React Native
   - more React tools and concepts
 
