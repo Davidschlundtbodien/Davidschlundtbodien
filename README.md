@@ -9,7 +9,7 @@
  - ES6
  - HTML5
  - CSS
- - TDD (Mocha/Chai)
+ - TDD & Unit/Integration (Mocha/Chai)
  - E2E & Acceptance testing (Cypress)
  - Git and GitHub workflow
  - Ruby on Rails
