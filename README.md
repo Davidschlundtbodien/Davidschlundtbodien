@@ -4,6 +4,7 @@
 
 [![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidschlundtbodien&show_icons=true&theme=vision-friendly-dark)](https://github.com/davidschlundtbodien/github-readme-stats)
 
+
 ## Tech 👾
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
